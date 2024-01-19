@@ -17,18 +17,25 @@ This project is part of a challenge for ORACLE NEXT EDUCATION | ALURA LATAM.
 ## Features
 
 - **Main Interface:**
+  
   ![Main Interface](https://github.com/Renndr/JavaSync-Hotel/assets/98851521/b147d724-f9cf-4172-8351-47e63787ae17)
 
+
 - **Login Interface:**
+  
   ![Login Interface](https://github.com/Renndr/JavaSync-Hotel/assets/98851521/c3f65b03-a936-4265-aea1-bbd2008e9350)
 
+
 - **Home Interface:**
+  
   ![Home Interface](https://github.com/Renndr/JavaSync-Hotel/assets/98851521/1c5e029a-08bc-4c10-8b00-61e348a8bfbd)
 
 - **Add New Guest Interface:**
+  
   ![Add New Guest Interface](https://github.com/Renndr/JavaSync-Hotel/assets/98851521/f89eea96-00f5-476a-8695-e6d57dcf5276)
 
 - **Search Guest Interface:**
+  
   ![Search Guest Interface](https://github.com/Renndr/JavaSync-Hotel/assets/98851521/3e5ef5ad-b7a5-403e-ad7d-aeca9f6dca23)
 
 ## Prerequisites
