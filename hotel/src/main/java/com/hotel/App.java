@@ -1,9 +1,12 @@
 package com.hotel;
 
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+import com.formdev.flatlaf.FlatLightLaf;
+import com.hotel.Views.MainWindow;
+
+public class App {
+    public static void main(String[] args) {
+        MainWindow mainWindow = new MainWindow();
+        mainWindow.setVisible(true);
+        FlatLightLaf.setup();
     }
 }
